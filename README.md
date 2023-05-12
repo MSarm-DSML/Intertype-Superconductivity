@@ -1,7 +1,7 @@
 
-# Information 
- - My dissertation is written in english, please ignore "DISSERTAÇÃO", it is the equivalent of "dissertation".
- - Soon I will add the programs running behind the scene, for now, you are free to have an appreciation of the results which are in the final prep. stage to publication.
+# General Information
+
+ - Soon I will add the programs running behind the scene, for now, you are free to have an appreciation of the results which are in the final prep. stage to publication. Most of calculations were done in the software Mathematica. 
 
 # On intertype superconductivity
 
