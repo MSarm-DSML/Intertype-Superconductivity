@@ -8,7 +8,7 @@
 On the stability of exotic solutions in intertype superconductivity (2d)
 In the conventional Ginzburg-Landau theory there are two superconducting types, I and II, and the difference between them is evaluated through the Ginzburg-Landau parameter κ=λL/ξ, in which λL is the London penetration depth and ξ is the coherence length. The change between types occur when κ crosses a critical value κ0=1/2–√: for κ>κ0 there is type II and for κ<κ0, type I. At κ=κ0, the Ginzburg-Landau equations are written as self-dual Bogomolnyi equations.
 
-(∂y+i∂x)Ψ=(Ax−iAy)
+(∂y+i∂x)Ψ=(Ax−iAy),
 B=1−|Ψ|2,
 
 with A the potential vector and B the magnetic induction. The Bogomolnyi point ("B-point") κ=κ0 is a superconducting state infinitely degenerate. However, the full microscopic theory is not degenerate as there are corrections of higher orders to the Ginzburg-Landau theory. As a result, there is a hierarchy of stability to configurations in a domain between the conventional types I e II in the phase diagram (coined "intertype"). To describe the remotion of degeneracy the simpler form is to produce a perturbation theory in deviations from the critical temperature. To understand the stability of configurations within the intertype domain it suffices a correction of a single order to the Ginzburg-Landau theory. As the interest is the stability in the neighborhood of κ=κ0 in a (κ,T) diagram, an expansion in deviation δκ=κ−κ0. The result of Gibbs free energy relative to the Meissner state is provided through
